@@ -5,11 +5,11 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="/images/140.png?=raw"/>
+<iframe width="560" height="315"<img src="/images/140.png?=raw"/></iframe>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="/images/seagal-steven-seagal.gif"/>
+<iframe width="560" height="315"<img src="/images/seagal-steven-seagal.gif"/></iframe>
 
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cllle4Kyqoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
