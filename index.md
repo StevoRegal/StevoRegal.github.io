@@ -5,11 +5,11 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="[[images/dummy_thumbnail.jpg?raw=true](https://i.redd.it/qhfofljyt9981.png)](https://i.redd.it/qhfofljyt9981.png)"/>
+<img src="(https://i.redd.it/qhfofljyt9981.png)](https://i.redd.it/qhfofljyt9981.png)"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="[images/dummy_thumbnail.jpg?raw=true](https://preview.redd.it/jit56mfgf9u41.jpg?auto=webp&s=580054c78063a845619d8ac2ce96e9163ef49184)"/>
+<img src="(https://preview.redd.it/jit56mfgf9u41.jpg?auto=webp&s=580054c78063a845619d8ac2ce96e9163ef49184)"/>
 
 ---
 [Project 3 Title](http://example.com/)
