@@ -13,7 +13,7 @@
 
 ---
 <iframe width="420" height="315"
-src="(https://www.youtube.com/watch?v=Cllle4Kyqoo)">
+src="https://www.youtube.com/watch?v=Cllle4Kyqoo">
 </iframe>
 
 ---
