@@ -12,9 +12,7 @@
 <img src="/images/seagal-steven-seagal.gif"/>
 
 ---
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/Cllle4Kyqoo?autoplay=1&mute=1">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cllle4Kyqoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ### Category Name 2
