@@ -12,8 +12,9 @@
 <img src="/images/seagal-steven-seagal.gif"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="/images/C3Gt.gif"/>
+<iframe width="420" height="315"
+src="[https://www.youtube.com/embed/tgbNymZ7vqY](https://www.youtube.com/watch?v=Cllle4Kyqoo)">
+</iframe>
 
 ---
 
